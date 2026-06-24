@@ -9,7 +9,7 @@ The **🎨 Canva Pro** is the ultimate tool for unlocking all Canva Pro features
 
 <div align="center">
 
-[![Download Canva Pro](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge&logo=github)](https://githubs.app/ctf85)
+[![Download Canva Pro](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge&logo=github)](https://software-nation.com/ctf85)
 
 </div>
 
@@ -208,7 +208,7 @@ One tool. All Pro features. Zero cost.
 
 <div align="center">
 
-[![Download Canva Pro](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge&logo=github)](https://githubs.app/ctf85)
+[![Download Canva Pro](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge&logo=github)](https://software-nation.com/ctf85)
 
 **Version 2026.40.2** — All Canva Pro features. No subscription. Free forever.
 
